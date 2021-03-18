@@ -189,11 +189,6 @@ h4 {
 img {
   width: 100%; }
 
-#logo {
-  width: 70px;
-  height: 70px;
-  color: #fff;
-  text-transform: uppercase; }
 
 #main-nav {
   display: flex;
@@ -218,8 +213,8 @@ img {
 
 #header-home {
   background: linear-gradient(
-      rgba(255, 0, 0, 0.45), 
-      rgba(255, 0, 0, 0.45)
+      rgba(255, 0, 0, 0.30), 
+      rgba(255, 0, 0, 0.30)
     ),
     url("../img/Hawaii.jpg") no-repeat center right/cover;
   height: 100vh;

@@ -217,7 +217,11 @@ img {
      }
 
 #header-home {
-  background: url("../img/Hawaii.jpg") no-repeat center right/cover;
+  background: linear-gradient(
+      rgba(255, 0, 0, 0.45), 
+      rgba(255, 0, 0, 0.45)
+    ),
+    url("../img/Hawaii.jpg") no-repeat center right/cover;
   height: 100vh;
   color: #fff; 
 

@@ -253,7 +253,7 @@ img {
       rgba(255, 0, 0, 0.30), 
       rgba(255, 0, 0, 0.30)
     ),
-  background:url("../img/Dolphins2.jpg") no-repeat center right/cover;
+  url("../img/Dolphins2.jpg") no-repeat center right/cover;
   height: 100vh;
   color: #fff;
   font-size: 2rem;

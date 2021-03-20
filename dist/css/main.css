@@ -250,7 +250,7 @@ img {
 /* height: 15rem;  */
   /* border-bottom: 3px solid #ffbc00;  */
   
-  url("../img/Background-pic.jpg") no-repeat center right/cover;
+  background:url("../img/Background-pic.jpg") no-repeat center right/cover;
   height: 100vh;
   color: #fff;
 }

@@ -46,8 +46,8 @@ input[class^='btn-']:hover {
   color: #000; }
 
 .lead {
-/*   font-size: 1.3rem; */
-/*  text-align: left; } */
+ font-size: 1.5rem; 
+ text-align: left; } 
 
 .text-center {
   text-align: center; }

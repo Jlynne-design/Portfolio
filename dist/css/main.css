@@ -245,11 +245,9 @@ img {
      }
 
 #header-inner {
-/*   background: url("../img/Background-pic.jpg") no-repeat 30% 45%/cover; */
-   background: url("../img/Background-pic.jpg") no-repeat center right/cover;
+ background: url("../img/Background-pic.jpg") no-repeat 30% 45%/cover; 
   /* height: 5.5rem; */
-/*   height: 10rem; */
-  height: 100vh;
+height: 50rem; 
   /* border-bottom: 3px solid #ffbc00;  */
 }
 

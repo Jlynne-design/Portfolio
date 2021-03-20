@@ -245,10 +245,13 @@ img {
      }
 
 #header-inner {
- background: url("../img/Background-pic.jpg") no-repeat 30% 60%/cover; 
+/*  background: url("../img/Background-pic.jpg") no-repeat 30% 60%/cover;  */
   /* height: 5.5rem; */
-height: 15rem; 
+/* height: 15rem;  */
   /* border-bottom: 3px solid #ffbc00;  */
+  
+  url("../img/Background-pic.jpg") no-repeat center right/cover;
+  height: 100vh;
 }
 
 #home-a .specials {

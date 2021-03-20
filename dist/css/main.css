@@ -245,23 +245,25 @@ img {
      }
 
 #header-inner {
-/*  background: url("../img/Background-pic.jpg") no-repeat 30% 60%/cover;  */
+background: url("../img/Background-pic.jpg") no-repeat 30% 60%/cover;
   /* height: 5.5rem; */
-/* height: 15rem;  */
+height: 15rem;  
   /* border-bottom: 3px solid #ffbc00;  */
-  background: linear-gradient(
-      rgba(255, 0, 0, 0.30), 
-      rgba(255, 0, 0, 0.30)
-    ),
-  url("../img/Dolphins2.jpg") no-repeat center right/cover;
-  height: 100vh;
-  color: #fff;
-  font-size: 1.5rem;
-  text-align: left;
+/*   background: linear-gradient( */
+/*       rgba(255, 0, 0, 0.30),  */
+/*       rgba(255, 0, 0, 0.30) */
+/*     ), */
+/*   url("../img/Dolphins2.jpg") no-repeat center right/cover; */
+/*   height: 100vh; */
+/*   color: #fff; */
+/*   font-size: 1.5rem; */
+/*   text-align: left; */
 }
 
 #header-inner p{
   text-align: left;
+  color: #000;
+  font-size: 1.5rem;
 }
 
 #home-a .specials {
@@ -451,7 +453,7 @@ img {
 
 @media (max-width: 800px) {
   #header-home {
-    height: 100rem; }
+    height: 80rem; }
     #header-home .header-content {
       padding-top: 5rem; } }
 
@@ -469,7 +471,7 @@ img {
       /* display: none; */
      }
   #header-inner {
-    height: 70rem; }
+    height: 10rem; }
   #home-a .specials,
   #home-b .stats,
   #home-c .process,

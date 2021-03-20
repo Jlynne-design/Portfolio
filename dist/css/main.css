@@ -451,7 +451,7 @@ img {
 
 @media (max-width: 800px) {
   #header-home {
-    height: 80rem; }
+    height: 100rem; }
     #header-home .header-content {
       padding-top: 5rem; } }
 
@@ -469,7 +469,7 @@ img {
       /* display: none; */
      }
   #header-inner {
-    height: 10rem; }
+    height: 70rem; }
   #home-a .specials,
   #home-b .stats,
   #home-c .process,

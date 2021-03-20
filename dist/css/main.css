@@ -249,7 +249,10 @@ img {
   /* height: 5.5rem; */
 /* height: 15rem;  */
   /* border-bottom: 3px solid #ffbc00;  */
-  
+  background: linear-gradient(
+      rgba(255, 0, 0, 0.30), 
+      rgba(255, 0, 0, 0.30)
+    ),
   background:url("../img/Dolphins2.jpg") no-repeat center right/cover;
   height: 100vh;
   color: #fff;

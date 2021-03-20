@@ -256,6 +256,7 @@ img {
   background:url("../img/Dolphins2.jpg") no-repeat center right/cover;
   height: 100vh;
   color: #fff;
+  font-size: 2rem;
 }
 
 #home-a .specials {

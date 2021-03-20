@@ -252,6 +252,7 @@ img {
   
   url("../img/Background-pic.jpg") no-repeat center right/cover;
   height: 100vh;
+  color: #fff;
 }
 
 #home-a .specials {
